@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img{
+    position: relative;
+}
+.img-1{
+    position: absolute;
+    top: 18rem;
+    right: 33rem;
+
+}
+.img-2{
+    position: absolute;
+    top: 39rem;
+    right: 69.5rem;
+    z-index:1 ;
+}
+.img-3{
+    position: absolute;
+    top: 40rem;
+    right: 71rem;
+    z-index:1 ;
+}
+.img-4{
+    position: absolute;
+    top: 38rem;
+    right: 68rem;
+    z-index:1 ;
+}
+
