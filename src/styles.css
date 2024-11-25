@@ -10,26 +10,7 @@
 }
 .img-1{
     position: absolute;
-    top: 18rem;
-    right: 33rem;
+    
 
-}
-.img-2{
-    position: absolute;
-    top: 39rem;
-    right: 69.5rem;
-    z-index:1 ;
-}
-.img-3{
-    position: absolute;
-    top: 40rem;
-    right: 71rem;
-    z-index:1 ;
-}
-.img-4{
-    position: absolute;
-    top: 38rem;
-    right: 68rem;
-    z-index:1 ;
 }
 
